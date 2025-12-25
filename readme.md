@@ -1,6 +1,7 @@
 # Weather App
 
 A simple weather application that displays current weather conditions and forecasts.
+<img width="613" height="697" alt="image" src="https://github.com/user-attachments/assets/1a51a840-7e0c-4e73-8cac-2c04b1de3b0f" />
 
 ## Features
 
